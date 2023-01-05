@@ -2,6 +2,6 @@
 A xmonad tilling window manager config written in haskell.
 
 
-`git clone https://github.com/ronit18/xmonad 
+`git clone https://github.com/ronit18/xmonad\n
 cp xmonad ~/.config/
 `
